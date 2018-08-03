@@ -1,7 +1,7 @@
 #!/bin/bash
 
 clear
-
+echo "This is test script"
 echo “This information is brought to you by $0.”
 
 #Welcome the user
